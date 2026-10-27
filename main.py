@@ -3,4 +3,6 @@ print("Hello, Git!")
 a = int(input("Введите первое целое число: "))
 b = int(input("Введите второе целое число: "))
 
-print("Вы ввели числа:", a, "и", b)
+result = a + b
+
+print("Сумма чисел:", result)
